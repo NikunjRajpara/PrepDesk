@@ -1,16 +1,26 @@
-# prepdesk
+# PrepDesk – Online Exam System
 
-A new Flutter project.
+**Tech Stack**: Flutter (Dart), Firebase, JSON
 
-## Getting Started
+PrepDesk is a modern online examination platform built with Flutter, offering users the ability to attempt multiple-choice exams in an intuitive and efficient environment. It is designed to provide a streamlined test-taking experience, making it ideal for educational institutes or independent learning platforms.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📚 **Subject-Wise Exams**  
+  Supports multiple static subjects, each with 30 randomized multiple-choice questions (MCQs).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔀 **Dynamic Shuffling**  
+  Questions are shuffled on every login to ensure fairness and uniqueness.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📱 **Cross-Platform Interface**  
+  Built using Flutter for a responsive and user-friendly experience on Android, iOS, and Web.
+
+- ⚡ **Lightweight & Offline Support**  
+  Uses JSON for local question storage, enabling fast and offline exam loading.
+
+- 🔐 **Authentication & Data Handling**  
+  Integrated with Firebase for user authentication and secure data management.
+
+## Conclusion
+
+PrepDesk showcases a practical and scalable solution for online assessments, combining the power of Flutter and Firebase. This project reflects strong problem-solving skills, clean architecture, and an eye for user experience. PrepDesk is a solid foundation for digital examination systems, whether used for academic testing or learning platforms.
