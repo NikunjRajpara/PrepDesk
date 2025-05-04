@@ -1,0 +1,350 @@
+{
+    "questions":[
+    {
+      "questionText": "Which of the following is a valid keyword in Java?",
+      "options": ["interface", "unsigned", "friend", "override"],
+      "correctAnswer": 0
+    },
+    {
+      "questionText": "Which method is the entry point of a Java program?",
+      "options": ["start()", "main()", "run()", "init()"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which of these data types is used to store a true/false value?",
+      "options": ["int", "char", "boolean", "byte"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which of these is not a Java feature?",
+      "options": ["Object-oriented", "Use of pointers", "Platform independent", "Robust"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which package contains the Scanner class?",
+      "options": ["java.io", "java.util", "java.lang", "java.awt"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which of these is used to handle exceptions in Java?",
+      "options": ["try-catch", "catch-throw", "do-catch", "final-catch"],
+      "correctAnswer": 0
+    },
+    {
+      "questionText": "What is the size of an int variable in Java?",
+      "options": ["8 bits", "16 bits", "32 bits", "64 bits"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which keyword is used to create a subclass in Java?",
+      "options": ["super", "extends", "implements", "this"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which operator is used for comparison in Java?",
+      "options": ["=", "==", "===", "!="],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which access modifier makes a member accessible within the same package?",
+      "options": ["private", "protected", "default", "public"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which of these is a loop structure in Java?",
+      "options": ["repeat", "foreach", "loop", "for"],
+      "correctAnswer": 3
+    },
+    {
+      "questionText": "How do you declare a constant in Java?",
+      "options": ["const", "static", "final", "define"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which class is the superclass of all classes in Java?",
+      "options": ["Object", "Main", "Class", "Superclass"],
+      "correctAnswer": 0
+    },
+    {
+      "questionText": "Which keyword is used to inherit a class?",
+      "options": ["import", "export", "extends", "implements"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "What does JVM stand for?",
+      "options": ["Java Variable Machine", "Java Virtual Machine", "Java Verified Method", "Joint Virtual Module"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which method is used to start a thread execution?",
+      "options": ["run()", "start()", "execute()", "init()"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which of the following is not a primitive data type in Java?",
+      "options": ["int", "float", "String", "char"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "What is the default value of a boolean variable in Java?",
+      "options": ["true", "false", "0", "null"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which statement is used to exit from a loop?",
+      "options": ["exit", "stop", "return", "break"],
+      "correctAnswer": 3
+    },
+    {
+      "questionText": "Which keyword is used to define an interface?",
+      "options": ["interface", "implements", "abstract", "class"],
+      "correctAnswer": 0
+    },
+    {
+      "questionText": "Which function is used to find string length in Java?",
+      "options": ["length()", "size()", "getSize()", "count()"],
+      "correctAnswer": 0
+    },
+    {
+      "questionText": "Which exception is thrown when a negative array size is declared?",
+      "options": ["NegativeArraySizeException", "IndexOutOfBoundsException", "NullPointerException", "ArithmeticException"],
+      "correctAnswer": 0
+    },
+    {
+      "questionText": "Which of these is used for garbage collection in Java?",
+      "options": ["delete()", "free()", "gc()", "collect()"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "What is the base class of all exceptions in Java?",
+      "options": ["Error", "Exception", "Throwable", "Object"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which annotation is used for overriding a method?",
+      "options": ["@Override", "@Overload", "@Over", "@MethodOverride"],
+      "correctAnswer": 0
+    },
+    {
+      "questionText": "Which keyword is used to prevent inheritance in Java?",
+      "options": ["static", "private", "final", "sealed"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which method must be implemented by a Java applet?",
+      "options": ["main()", "run()", "init()", "paint()"],
+      "correctAnswer": 3
+    },
+    {
+      "questionText": "What does the 'this' keyword refer to?",
+      "options": ["Current class", "Superclass", "Next class", "Static class"],
+      "correctAnswer": 0
+    },
+    {
+      "questionText": "Which of the following is used to create an object in Java?",
+      "options": ["create", "object", "new", "instance"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which of these is not a loop control statement in Java?",
+      "options": ["continue", "break", "exit", "return"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which of these is a valid declaration of a char?",
+      "options": ["char c = 'a';", "char c = \"a\";", "char c = a;", "char c = 'ab';"],
+      "correctAnswer": 0
+    },
+    {
+      "questionText": "Which keyword is used to define a constant in Java?",
+      "options": ["const", "final", "static", "constant"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which of the following is not a Java keyword?",
+      "options": ["volatile", "synchronized", "transient", "constant"],
+      "correctAnswer": 3
+    },
+    {
+      "questionText": "Which of these is a valid way to declare an array in Java?",
+      "options": ["int arr[];", "int arr();", "int arr{};", "int arr<>;"],
+      "correctAnswer": 0
+    },
+    {
+      "questionText": "Which of the following is not a valid Java identifier?",
+      "options": ["_myVar", "$myVar", "my-var", "myVar"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which keyword is used to define a method that cannot be overridden?",
+      "options": ["static", "final", "private", "protected"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which of these is not a valid Java comment?",
+      "options": ["// This is a comment", "/* This is a comment */", "<!-- This is a comment -->", "# This is a comment"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which of the following is not a Java collection framework?",
+      "options": ["ArrayList", "HashMap", "TreeSet", "LinkedList"],
+      "correctAnswer": 3
+    },
+    {
+      "questionText": "Which keyword is used to define a method that can be overridden?",
+      "options": ["virtual", "override", "abstract", "final"],
+      "correctAnswer": 2
+    },
+    {
+        "questionText": "Which keyword is used to define a subclass that cannot be inherited?",
+        "options": ["abstract", "final", "static", "sealed"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of the following is not a valid Java loop?",
+        "options": ["for", "foreach", "while", "do-while"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "What is the extension of compiled Java classes?",
+        "options": [".java", ".class", ".jar", ".exe"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which tool is used to compile Java code?",
+        "options": ["javac", "java", "javadoc", "javap"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which keyword is used to inherit multiple interfaces?",
+        "options": ["extends", "inherits", "implements", "derives"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which keyword is used to define an abstract method?",
+        "options": ["static", "abstract", "final", "void"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which class allows you to read input from the console?",
+        "options": ["Scanner", "Reader", "InputStream", "System"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which operator is used to allocate memory for an object?",
+        "options": ["malloc", "alloc", "new", "create"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which Java keyword is used to call the constructor of a parent class?",
+        "options": ["super", "parent", "this", "base"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "What is method overloading in Java?",
+        "options": ["Using same method name with different return types", "Using same method name with different parameters", "Using same method name in subclass", "Using multiple methods in main"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which collection class allows you to store key-value pairs?",
+        "options": ["List", "Set", "Map", "Queue"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "What will be the result of 5/2 in Java?",
+        "options": ["2.5", "2", "2.0", "Compile error"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which statement is used to throw an exception manually?",
+        "options": ["catch", "try", "throw", "throws"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which collection class allows duplicate elements?",
+        "options": ["Set", "List", "Map", "TreeSet"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of these is not a wrapper class?",
+        "options": ["Integer", "Double", "Float", "String"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "What is the size of a `char` in Java?",
+        "options": ["1 byte", "2 bytes", "4 bytes", "Depends on system"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which thread method is used to pause execution for a period?",
+        "options": ["pause()", "wait()", "sleep()", "halt()"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "What is the output of: System.out.println(10 + 20 + \"30\")?",
+        "options": ["3030", "102030", "3030.0", "3030.30"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which Java feature ensures code security and portability?",
+        "options": ["Bytecode", "Compiler", "Interpreter", "JDK"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which access modifier allows access within the same package and subclass?",
+        "options": ["private", "public", "protected", "default"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which keyword prevents method overriding?",
+        "options": ["static", "private", "final", "abstract"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "What is the default value of a local variable in Java?",
+        "options": ["0", "null", "false", "Not initialized"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "Which of the following is true about constructor?",
+        "options": ["It has a return type", "It can be inherited", "It is called automatically", "It can be static"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which class is used for dynamic array operations in Java?",
+        "options": ["LinkedList", "ArrayList", "Vector", "HashMap"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "What is the parent interface of all collection interfaces?",
+        "options": ["Set", "List", "Collection", "Map"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "What does 'static' mean in Java?",
+        "options": ["Method belongs to class", "Method runs faster", "Method is abstract", "Method is overridden"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which of these is not an exception class?",
+        "options": ["IOException", "SQLException", "ClassNotFoundException", "ParseError"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "Which keyword is used to implement multiple inheritance in Java?",
+        "options": ["extends", "implements", "inherits", "instanceof"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which method is called when an object is garbage collected?",
+        "options": ["destroy()", "finalize()", "delete()", "clean()"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which interface is used to sort objects in natural order?",
+        "options": ["Comparable", "Comparator", "Sorted", "Orderable"],
+        "correctAnswer": 0
+      }
+  ]
+}
+  
