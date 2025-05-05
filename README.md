@@ -16,7 +16,7 @@ PrepDesk is a modern online examination platform built with Flutter, offering us
   Built using Flutter for a responsive and user-friendly experience on Android, iOS, and Web.
 
 - ⚡ **Lightweight & Offline Support**  
-  Uses JSON for local question storage, enabling fast and offline exam loading.
+  Uses JSON for local question storage, enabling fast exam loading.
 
 - 🔐 **Authentication & Data Handling**  
   Integrated with Firebase for user authentication and secure data management.
