@@ -49,7 +49,7 @@ ________________________________________________________________________________
 
 📦 Installation
 -----------------
-git clone https://github.com/your-username/prepdesk.git
+git clone https://github.com/NikunjRajpara/prepdesk
 
 cd prepdesk
 
