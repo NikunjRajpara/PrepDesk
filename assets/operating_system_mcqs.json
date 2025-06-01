@@ -1,0 +1,417 @@
+{
+    "questions": [
+        {
+            "questionText": "What is an operating system?",
+            "options": ["A collection of programs that manages hardware resources", "A device that connects computers to a network", "A programming language", "A type of software used for document editing"],
+            "correctAnswer": 0
+          },
+          {
+            "questionText": "Which of the following is NOT a function of an operating system?",
+            "options": ["Memory management", "Process scheduling", "Compiler execution", "File management"],
+            "correctAnswer": 2
+          },
+          {
+            "questionText": "Which type of operating system is used in real-time applications?",
+            "options": ["Batch OS", "Multiprogramming OS", "Real-time OS", "Network OS"],
+            "correctAnswer": 2
+          },
+          {
+            "questionText": "What does CPU scheduling aim to achieve?",
+            "options": ["Maximizing CPU utilization", "Minimizing the number of processes", "Reducing power consumption", "Increasing the number of CPUs"],
+            "correctAnswer": 0
+          },
+          {
+            "questionText": "Which of the following is NOT an operating system?",
+            "options": ["Windows", "Linux", "Oracle", "macOS"],
+            "correctAnswer": 2
+          },
+          {
+            "questionText": "Which scheduling algorithm gives each process an equal time slice?",
+            "options": ["FCFS", "SJF", "Round Robin", "Multilevel Queue"],
+            "correctAnswer": 2
+          },
+          {
+            "questionText": "Which memory management technique divides memory into fixed-sized blocks?",
+            "options": ["Paging", "Segmentation", "Swapping", "Fragmentation"],
+            "correctAnswer": 0
+          },
+          {
+            "questionText": "Which file system is used in modern Windows operating systems?",
+            "options": ["FAT32", "NTFS", "EXT4", "HFS+"],
+            "correctAnswer": 1
+          },
+          {
+            "questionText": "Which of the following is an example of a distributed operating system?",
+            "options": ["Linux", "Windows 10", "Solaris", "Amoeba"],
+            "correctAnswer": 3
+          },
+          {
+            "questionText": "Which of these is NOT a type of system call?",
+            "options": ["Process Control", "File Management", "Thread Execution", "Communication"],
+            "correctAnswer": 2
+          },
+
+          {
+            "questionText": "Which component of the OS is responsible for process synchronization?",
+            "options": ["Scheduler", "Mutex", "Semaphore", "Kernel"],
+            "correctAnswer": 2
+          },
+          {
+            "questionText": "What is thrashing in operating systems?",
+            "options": ["A type of page replacement", "Excessive swapping of processes between RAM and disk", "A security vulnerability", "An OS crash scenario"],
+            "correctAnswer": 1
+          },
+          {
+            "questionText": "Which OS concept ensures that multiple processes can execute concurrently?",
+            "options": ["Multitasking", "Multiprocessing", "Multithreading", "All of the above"],
+            "correctAnswer": 3
+          },
+          {
+            "questionText": "Which algorithm is used for deadlock avoidance?",
+            "options": ["FIFO", "LIFO", "Banker's Algorithm", "Round Robin"],
+            "correctAnswer": 2
+          },
+      {
+        "questionText": "What is a critical section in process synchronization?",
+            "options": ["A part of code that accesses shared resources", "A memory section reserved for the OS", "A debugging method", "A special type of kernel module"],
+            "correctAnswer": 0
+        }, 
+      {
+        "questionText": "Which type of kernel allows modules to be loaded and unloaded at runtime?",
+        "options": ["Monolithic kernel", "Microkernel", "Hybrid kernel", "Modular kernel"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "What is a zombie process?",
+        "options": ["A process that is killed", "A child process that has terminated but not been waited on", "A process with a memory leak", "A process consuming all CPU time"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which command is used in Linux to display running processes?",
+        "options": ["ls", "top", "cd", "mkdir"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of these is a user-level thread library?",
+        "options": ["POSIX", "WinAPI", "Java Threads", "None of the above"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which of the following best describes a microkernel?",
+        "options": ["Includes all services in kernel space", "Runs most OS services in user space", "Used in batch systems only", "Supports only single-threading"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "What does virtual memory allow?",
+        "options": ["Execution of large processes without real memory", "Faster execution", "Direct access to hardware", "Storing files in cache"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which is the fastest scheduling algorithm?",
+        "options": ["FCFS", "Round Robin", "SJF", "Priority Scheduling"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which of these is used to handle deadlock?",
+        "options": ["Avoidance", "Prevention", "Detection and Recovery", "All of the above"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "In Round Robin scheduling, what determines the efficiency?",
+        "options": ["Process priority", "Queue size", "Time quantum", "CPU architecture"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which method is used to allocate resources in a deadlock-free manner?",
+        "options": ["Safe State", "Unsafe State", "Busy Waiting", "Spinlock"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "What is the purpose of device drivers in OS?",
+        "options": ["To improve CPU performance", "To convert high-level code to machine code", "To allow OS to communicate with hardware", "To execute Java programs"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which technique allows multiple programs to reside in memory at the same time?",
+        "options": ["Swapping", "Overlays", "Multiprogramming", "Multithreading"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which mechanism is used to manage input/output operations?",
+        "options": ["Memory Management", "CPU Scheduling", "I/O Subsystem", "Command Interpreter"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which of these is not part of the process control block (PCB)?",
+        "options": ["Process ID", "Program Counter", "File Descriptor", "Compiler Code"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "What is context switching?",
+        "options": ["Switching from user to kernel mode", "Saving and restoring process state", "Interrupting a process", "Changing process priority"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which is NOT a benefit of multithreading?",
+        "options": ["Better resource utilization", "Faster context switching", "Improved performance", "Simplified debugging"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "What does a semaphore do?",
+        "options": ["Controls access to shared resources", "Schedules processes", "Tracks memory usage", "Manages file access"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which command shows memory usage in Linux?",
+        "options": ["top", "df", "free", "chmod"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which one is NOT a file access method?",
+        "options": ["Sequential", "Direct", "Indexed", "Reverse"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "Which of the following is true for SJF scheduling?",
+        "options": ["Can lead to starvation", "Preemptive only", "Doesn’t require burst time", "Non-preemptive only"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which memory allocation method suffers most from external fragmentation?",
+        "options": ["Paging", "Segmentation", "Dynamic Partitioning", "Fixed Partitioning"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which scheduling algorithm can result in starvation?",
+        "options": ["Round Robin", "FCFS", "Priority Scheduling", "SJF"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "What is spooling in OS?",
+        "options": ["A disk scheduling technique", "A form of buffering for I/O devices", "A CPU scheduling method", "A page replacement policy"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of the following is NOT part of the OS kernel?",
+        "options": ["Process management", "File system", "Shell", "Device management"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which system call is used to create a new process in UNIX?",
+        "options": ["exec()", "wait()", "fork()", "kill()"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which of the following handles the execution of multiple threads?",
+        "options": ["Loader", "Linker", "Thread Scheduler", "Dispatcher"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "What does the 'ps' command do in Linux?",
+        "options": ["Displays process status", "Prints system log", "Starts a process", "Shuts down a process"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which of these is not a real-time operating system?",
+        "options": ["VxWorks", "RTLinux", "FreeRTOS", "Ubuntu"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "Which of the following is a non-preemptive scheduling algorithm?",
+        "options": ["SJF", "Round Robin", "Multilevel Queue", "Priority Scheduling"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which technique is used to prevent race conditions?",
+        "options": ["Paging", "Pipelining", "Critical Section", "Segmentation"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which of the following is a mechanism for inter-process communication?",
+        "options": ["Semaphore", "Socket", "Pipe", "All of the above"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "Which of the following is a type of malware?",
+        "options": ["Antivirus", "Trojan", "Firewall", "Router"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of the following is NOT a type of operating system?",
+        "options": ["Batch OS", "Time-sharing OS", "Real-time OS", "Network OS"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "Which of the following is a type of network operating system?",
+        "options": ["Windows 10", "Linux", "Novell NetWare", "macOS"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which of the following is NOT a type of file system?",
+        "options": ["FAT32", "NTFS", "EXT4", "HTTP"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "Which of the following is a characteristic of a batch processing system?",
+        "options": ["Immediate processing", "Interactive user interface", "Job scheduling", "Real-time processing"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which of the following is an example of a time-sharing operating system?",
+        "options": ["MS-DOS", "Unix", "Windows 3.1", "CP/M"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of the following is not a disk scheduling algorithm?",
+        "options": ["FCFS", "SCAN", "LOOK", "LRU"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "In which memory allocation scheme is the memory divided into variable-sized partitions?",
+        "options": ["Paging", "Segmentation", "Fixed Partitioning", "Virtual Memory"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which OS layer directly interacts with the hardware?",
+        "options": ["Application Layer", "Shell", "Kernel", "File System"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which of the following is a characteristic of a real-time OS?",
+        "options": ["Multitasking", "Multithreading", "Deterministic response time", "Graphical user interface"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which of the following is used to protect the OS from user programs?",
+        "options": ["Segmentation", "Virtual Memory", "Dual-mode operation", "Spooling"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "What is the main function of the command interpreter?",
+        "options": ["Manage system calls", "Translate user commands into system calls", "Control memory", "Execute device drivers"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which part of the OS is responsible for managing the CPU?",
+        "options": ["Memory Manager", "Process Scheduler", "Device Driver", "File System"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "What is the main advantage of multilevel queue scheduling?",
+        "options": ["Reduces context switching", "Supports different types of processes", "Minimizes starvation", "Simplifies scheduling"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of these is a file allocation method?",
+        "options": ["Contiguous", "Linked", "Indexed", "All of the above"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "Which operating system component manages peripherals like disk drives and printers?",
+        "options": ["Kernel", "Shell", "Device Drivers", "Process Table"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which OS concept allows a system to run multiple applications simultaneously?",
+        "options": ["Virtualization", "Time-sharing", "Segmentation", "Deadlock"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of these conditions is necessary for a deadlock to occur?",
+        "options": ["Mutual exclusion", "Preemption", "Safe state", "Starvation"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which strategy is used in FCFS scheduling?",
+        "options": ["Shortest job first", "Based on priorities", "First come, first served", "Circular queue"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which command in Linux changes file permissions?",
+        "options": ["chmod", "ls", "cat", "ps"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which of the following is a function of BIOS?",
+        "options": ["Manage memory", "Start the OS", "Control multitasking", "Manage printers"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of these is a core service provided by the OS?",
+        "options": ["Email client", "Web browsing", "Process management", "Text editor"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which structure stores information about a process?",
+        "options": ["File table", "Process control block", "Page table", "Descriptor table"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of these is a disadvantage of multiprogramming?",
+        "options": ["Increased CPU usage", "Efficient memory usage", "Complexity in job scheduling", "Faster program execution"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "In Unix, which system call is used to replace the current process image with a new process image?",
+        "options": ["exec()", "fork()", "wait()", "exit()"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which of these is not a valid page replacement algorithm?",
+        "options": ["FIFO", "LRU", "Optimal", "SJF"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "Which of the following is true about virtual memory?",
+        "options": ["It is located on the CPU", "It stores physical memory", "It enables execution of processes not in main memory", "It increases CPU speed"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which system software acts as an intermediary between user and hardware?",
+        "options": ["Compiler", "Interpreter", "Operating System", "Assembler"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "What is a trap in OS terminology?",
+        "options": ["A virus", "A hardware failure", "A software-generated interrupt", "A backup process"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which of these is not a CPU scheduling criterion?",
+        "options": ["Throughput", "Waiting time", "Memory size", "Turnaround time"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which of these best defines latency in OS scheduling?",
+        "options": ["The number of processes per second", "Time taken to complete all processes", "Delay before process execution begins", "Average CPU load"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which page replacement algorithm may suffer from Belady’s anomaly?",
+        "options": ["LRU", "FIFO", "Optimal", "Clock"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "What is meant by starvation in operating systems?",
+        "options": ["A process not getting CPU time", "High memory usage", "Multiple I/O requests", "Data corruption"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "What does the command ‘kill’ do in Unix?",
+        "options": ["Terminates a process", "Starts a new process", "Compiles a program", "Displays process info"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which memory allocation method reduces internal fragmentation?",
+        "options": ["Fixed Partitioning", "Segmentation", "Paging", "Dynamic Partitioning"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "Which of the following is a goal of an OS?",
+        "options": ["Ease of use", "Efficient resource management", "Security", "All of the above"],
+        "correctAnswer": 3
+      }
+
+    ]
+  }
+  

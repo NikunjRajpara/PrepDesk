@@ -1,0 +1,454 @@
+{
+    "questions":[
+    {
+      "questionText": "What is cloud computing?",
+      "options": ["A type of operating system", "A method to store data locally", "Delivery of computing services over the internet", "A hardware component"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which of the following is a type of cloud deployment model?",
+      "options": ["Private cloud", "Public cloud", "Hybrid cloud", "All of the above"],
+      "correctAnswer": 3
+    },
+    {
+      "questionText": "Which service model provides virtual machines over the internet?",
+      "options": ["SaaS", "PaaS", "IaaS", "DaaS"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which of the following is a characteristic of cloud computing?",
+      "options": ["Manual scaling", "Limited access", "On-demand self-service", "Fixed resources"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "What does SaaS stand for?",
+      "options": ["Software and a Server", "Software as a Service", "System as a Software", "Storage as a System"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which company is NOT a major cloud service provider?",
+      "options": ["Amazon", "Microsoft", "IBM", "Oracle"],
+      "correctAnswer": 3
+    },
+    {
+      "questionText": "Which of the following is a cloud computing platform by Amazon?",
+      "options": ["Azure", "GCP", "AWS", "Bluemix"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "What does scalability in cloud computing mean?",
+      "options": ["Automatic software updates", "Ability to increase/decrease resources", "Cost savings", "Backup storage"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which protocol is commonly used to access cloud storage?",
+      "options": ["HTTP", "FTP", "SMTP", "POP"],
+      "correctAnswer": 0
+    },
+    {
+      "questionText": "What is the main benefit of multi-tenancy in cloud?",
+      "options": ["Multiple servers per user", "Multiple users share resources", "Faster internet", "Private servers"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which of the following is not a cloud service model?",
+      "options": ["SaaS", "PaaS", "IaaS", "RAID"],
+      "correctAnswer": 3
+    },
+    {
+      "questionText": "Which Google service is used for cloud computing?",
+      "options": ["Gmail", "Google Cloud Platform", "Google Drive", "Google Docs"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Cloud computing helps reduce:",
+      "options": ["Performance", "Security", "Capital expenditure", "Storage space"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which of the following best describes 'elasticity' in cloud computing?",
+      "options": ["Ability to run offline", "Automatic virus protection", "Dynamic scaling of resources", "Fixed pricing model"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "What does virtualization enable in cloud computing?",
+      "options": ["Physical servers", "Shared hardware", "Isolation of resources", "Manual updates"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which of these is a platform as a service (PaaS) provider?",
+      "options": ["Heroku", "Dropbox", "DigitalOcean", "Slack"],
+      "correctAnswer": 0
+    },
+    {
+      "questionText": "What does GCP stand for in cloud computing?",
+      "options": ["Google Cloud Project", "Global Cloud Provider", "Google Cloud Platform", "General Cloud Processing"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "What is the function of a cloud orchestrator?",
+      "options": ["Hardware control", "Managing virtual machines", "Backup data", "Scheduling and managing resources"],
+      "correctAnswer": 3
+    },
+    {
+      "questionText": "Which of these is a cloud storage service?",
+      "options": ["Google Compute Engine", "Amazon S3", "Azure Functions", "Kubernetes"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which of the following is an example of SaaS?",
+      "options": ["Microsoft Azure", "Google Docs", "Amazon EC2", "VMware vSphere"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "What is a virtual machine?",
+      "options": ["Physical server", "A file manager", "An emulation of a computer system", "Cloud-based email client"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which technology allows applications to run in isolated environments?",
+      "options": ["Containers", "Networks", "Hypervisors", "Firewalls"],
+      "correctAnswer": 0
+    },
+    {
+      "questionText": "Which deployment model is used by a single organization?",
+      "options": ["Public cloud", "Private cloud", "Hybrid cloud", "Community cloud"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which cloud provider offers Azure?",
+      "options": ["Amazon", "Google", "IBM", "Microsoft"],
+      "correctAnswer": 3
+    },
+    {
+      "questionText": "What does a load balancer do in the cloud?",
+      "options": ["Stores backups", "Authenticates users", "Distributes traffic evenly", "Monitors CPU usage"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which of the following provides cloud-based database services?",
+      "options": ["Amazon RDS", "AWS Lambda", "Google App Engine", "Azure Functions"],
+      "correctAnswer": 0
+    },
+    {
+      "questionText": "Which cloud concept allows software updates without downtime?",
+      "options": ["Auto-scaling", "Rolling updates", "Load balancing", "Firewalling"],
+      "correctAnswer": 1
+    },
+    {
+      "questionText": "Which one of the following is a security concern in cloud computing?",
+      "options": ["Uptime", "Latency", "Data breaches", "Scalability"],
+      "correctAnswer": 2
+    },
+    {
+      "questionText": "Which type of cloud model combines public and private clouds?",
+      "options": ["Hybrid cloud", "Distributed cloud", "Private cloud", "Community cloud"],
+      "correctAnswer": 0
+    },
+    {
+      "questionText": "What does 'pay-as-you-go' mean in cloud computing?",
+      "options": ["Pay full amount before use", "Pay a fixed monthly fee", "Pay only for what you use", "Pay annually"],
+      "correctAnswer": 2
+    },
+    {
+        "questionText": "What is the role of an API in cloud computing?",
+        "options": ["Design user interfaces", "Manage databases", "Enable communication between applications", "Backup data"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which of the following is an open-source cloud platform?",
+        "options": ["Azure", "AWS", "OpenStack", "Google Cloud"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which hypervisor type runs directly on hardware?",
+        "options": ["Type 1", "Type 2", "Container", "VirtualBox"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "What does cloud bursting allow?",
+        "options": ["Permanent resource scaling", "Switching between OS", "Using public cloud during peak load", "Data migration"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which term refers to unauthorized access to cloud data?",
+        "options": ["Data redundancy", "Data leakage", "Data throttling", "Data warehousing"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of the following provides Function-as-a-Service?",
+        "options": ["AWS Lambda", "Amazon EC2", "Google Drive", "Azure Blob"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "What does the term 'multi-cloud' refer to?",
+        "options": ["Multiple apps in one cloud", "Using services from multiple cloud providers", "Using one cloud for many users", "Cloud for mobile only"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of the following is a compute service in Google Cloud?",
+        "options": ["Cloud SQL", "BigQuery", "Compute Engine", "Cloud Storage"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which tool is used for infrastructure automation in the cloud?",
+        "options": ["Photoshop", "Terraform", "MS Word", "Gmail"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of the following is a benefit of cloud computing?",
+        "options": ["Fixed billing", "Manual updates", "Increased scalability", "Reduced uptime"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which component helps manage containers in the cloud?",
+        "options": ["Docker", "MySQL", "S3", "Apache"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which AWS service is used for DNS routing?",
+        "options": ["CloudFront", "Route 53", "EC2", "S3"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "What is the main advantage of PaaS?",
+        "options": ["Full control of hardware", "Run only existing software", "Simplified application deployment", "Offline accessibility"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which Google Cloud service is used for data warehousing?",
+        "options": ["Cloud SQL", "App Engine", "BigQuery", "Cloud Spanner"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which is a popular open-source container orchestration tool?",
+        "options": ["Vagrant", "Kubernetes", "Apache", "MySQL"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "What does CDN stand for in cloud computing?",
+        "options": ["Cloud Data Network", "Centralized Data Node", "Content Delivery Network", "Cloud Delivery Node"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which cloud model is best for government or community use?",
+        "options": ["Public", "Private", "Hybrid", "Community"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "Which AWS service provides object storage?",
+        "options": ["EC2", "RDS", "Lambda", "S3"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "What is the main purpose of auto-scaling?",
+        "options": ["Reducing latency", "Adding users", "Automatically adjusting resources", "Increasing costs"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which type of cloud storage is best for archival data?",
+        "options": ["Hot storage", "Cold storage", "RAM", "Flash"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of the following is used for serverless architecture?",
+        "options": ["AWS Lambda", "EC2", "S3", "Redshift"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which layer in cloud architecture deals with the user interface?",
+        "options": ["Infrastructure", "Platform", "Application", "Hardware"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "What is a cloud-native application?",
+        "options": ["Runs on local machine", "Built to run in cloud environments", "Uses static IP", "Needs on-premise server"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which tool is commonly used to manage cloud security?",
+        "options": ["Wireshark", "CloudGuard", "Adobe", "WinRAR"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which is not a feature of cloud computing?",
+        "options": ["On-demand access", "Resource pooling", "Location independence", "Fixed infrastructure"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "Which service is used for deploying web apps in Azure?",
+        "options": ["Azure Blob Storage", "Azure Web Apps", "Azure Machine Learning", "Azure Synapse"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of the following is NOT a cloud computing provider?",
+        "options": ["Alibaba Cloud", "Salesforce", "Tesla Cloud", "Oracle Cloud"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which AWS service is designed for content delivery?",
+        "options": ["RDS", "CloudFront", "EBS", "IAM"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which tool is used for logging and monitoring in AWS?",
+        "options": ["S3", "CloudWatch", "Route 53", "Glacier"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "What does latency refer to in cloud computing?",
+        "options": ["Storage capacity", "Backup size", "Delay in data transfer", "CPU speed"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "What is a key characteristic of cloud scalability?",
+        "options": ["Fixed cost", "Manual provisioning", "On-demand resource allocation", "Low-speed networking"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which type of service allows users to run applications without managing the underlying infrastructure?",
+        "options": ["IaaS", "SaaS", "PaaS", "Serverless"],
+        "correctAnswer": 3
+      },
+      {
+        "questionText": "Which of the following cloud deployment models offers the most control?",
+        "options": ["Public Cloud", "Private Cloud", "Hybrid Cloud", "Community Cloud"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "What is the main responsibility of a cloud service provider?",
+        "options": ["Developing user applications", "Managing network switches", "Maintaining the cloud infrastructure", "Creating personal websites"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which protocol is commonly used for secure file transfer in cloud services?",
+        "options": ["FTP", "SFTP", "HTTP", "POP3"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of the following is not an advantage of cloud computing?",
+        "options": ["Scalability", "Pay-as-you-go model", "High initial investment", "Reduced IT maintenance"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which of the following best describes elasticity in cloud computing?",
+        "options": ["Ability to stretch data", "Flexible billing plans", "Auto-scaling resources as needed", "Improved network speed"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which of the following is a cloud-based development environment?",
+        "options": ["AWS Cloud9", "Windows OS", "Google Docs", "Oracle VM"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which service helps migrate large amounts of data to the cloud physically?",
+        "options": ["AWS Snowball", "Azure Blob", "GCP BigQuery", "AWS RDS"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "What is meant by cloud orchestration?",
+        "options": ["Automating cloud services and resources", "Manual control of virtual machines", "Cloud coloring", "Software patching"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which of the following is used for identity and access management in AWS?",
+        "options": ["IAM", "S3", "EC2", "CloudTrail"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which layer of the cloud architecture provides the runtime environment?",
+        "options": ["Infrastructure", "Platform", "Application", "Database"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of the following represents a storage service?",
+        "options": ["Azure Table", "Google Cloud Storage", "AWS Redshift", "Amazon RDS"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which AWS tool is used for auditing and compliance?",
+        "options": ["EC2", "CloudTrail", "S3", "CloudFront"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which service model is Google Workspace an example of?",
+        "options": ["IaaS", "PaaS", "SaaS", "FaaS"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which is a key concern in public cloud environments?",
+        "options": ["Data sovereignty", "Ease of use", "Cost savings", "High availability"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "Which of the following supports disaster recovery?",
+        "options": ["AWS RDS", "Google Cloud Storage", "Cloud Replication", "IAM"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which cloud computing concept allows virtual machines to be run on a single physical server?",
+        "options": ["Virtualization", "Scaling", "Orchestration", "Load balancing"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "What is the purpose of cloud resource tagging?",
+        "options": ["To increase speed", "To name files", "To organize and manage cloud resources", "To assign colors to files"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which of the following is a benefit of cloud monitoring tools?",
+        "options": ["Increased complexity", "Real-time insights", "High latency", "Data loss"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which of these is used for policy-based management in Azure?",
+        "options": ["Azure Blob", "Azure Monitor", "Azure Policy", "Azure Vault"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which feature ensures uninterrupted cloud service?",
+        "options": ["Auto Shutdown", "Redundancy", "Latency", "Caching"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which service is responsible for content acceleration in cloud?",
+        "options": ["Load Balancer", "Virtual Machine", "Content Delivery Network", "Data Lake"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "What is 'pay-as-you-go' in cloud computing?",
+        "options": ["Monthly subscription", "One-time payment", "Billing based on usage", "No billing"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "What kind of service is Google App Engine?",
+        "options": ["SaaS", "IaaS", "PaaS", "FaaS"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "What is the purpose of a service-level agreement (SLA)?",
+        "options": ["To manage storage", "To define service expectations", "To set prices", "To track users"],
+        "correctAnswer": 1
+      },
+      {
+        "questionText": "Which cloud feature enables access to resources from any location?",
+        "options": ["Elasticity", "Multi-tenancy", "Broad network access", "Redundancy"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which platform provides managed Kubernetes service?",
+        "options": ["AWS EC2", "Google Cloud Functions", "Azure AKS", "AWS Lambda"],
+        "correctAnswer": 2
+      },
+      {
+        "questionText": "Which of the following enables continuous integration in cloud platforms?",
+        "options": ["GitHub Actions", "Azure Monitor", "AWS Lambda", "CloudFront"],
+        "correctAnswer": 0
+      },
+      {
+        "questionText": "What is the primary focus of DevOps in cloud environments?",
+        "options": ["Security", "Resource billing", "Collaboration and automation", "Data migration"],
+        "correctAnswer": 2
+      }
+  ]
+}
