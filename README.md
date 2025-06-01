@@ -1,16 +1,59 @@
 # prepdesk
 
-A new Flutter project.
+PrepDesk is a cross-platform online examination system built with Flutter. It allows users to take secure, subject-wise multiple-choice tests with randomized questions and a seamless test-taking interface.
+_____________________________________________________________________________________________________________________________
+🚀 Features
+--------------
 
-## Getting Started
+🔐 Secure Login using Firebase Authentication
 
-This project is a starting point for a Flutter application.
+📚 Static Subject-wise Exams with 30 MCQs each
 
-A few resources to get you started if this is your first Flutter project:
+🔄 Shuffling Logic – Questions shuffle on every login
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🌐 Cross-Platform Compatibility – Works on Android, iOS, and Web
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💾 Dynamic Question Loading using JSON
+
+🧑‍🎓 Student-Centric UI for a distraction-free exam experience
+
+_____________________________________________________________________________________________________________________________
+
+🛠️ Tech Stack
+------------------
+Frontend: Flutter (Dart)
+
+Backend/Data: JSON
+
+Authentication & Database: Firebase
+
+_____________________________________________________________________________________________________________________________
+
+📸 Screenshots
+---------------
+
+_____________________________________________________________________________________________________________________________
+
+📦 Installation
+-----------------
+git clone https://github.com/your-username/prepdesk.git
+cd prepdesk
+flutter pub get
+flutter run
+
+_____________________________________________________________________________________________________________________________
+
+🌐 Live Demo
+--------------
+[Click here to try PrepDesk on Netlify](https://prepdeskexam.netlify.app/) 👈
+
+_____________________________________________________________________________________________________________________________
+
+🧑‍💻 Author
+--------------
+Nikunj Rajpara
+📧 nikunjrajpara29@gmail.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/nikunj-rajpara-4628a0247) 
+🔗 [GitHub](https://github.com/nikunjrajpara)
+
